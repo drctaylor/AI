@@ -1,4 +1,4 @@
-# AI
+# Computer Vision Initial Programming
 
 This file works to manipulate two images.  You can use any image you like. It is currently set to Woman.png and Firefly.png  It is set up for Python 3.  The input files have four images and the output file shows the solution for each image manipulation.
 
