@@ -1,6 +1,6 @@
 # AI
 
-This file works to manipulate two images.  You can use any image you like. It is currently set to Woman.png and Firefly.png
+This file works to manipulate two images.  You can use any image you like. It is currently set to Woman.png and Firefly.png  It is set up for Python 3.  The input files have four images and the output file shows the solution for each image manipulation.
 
 Setup: Running the file, takes two images from the input file and writes out 21 images to the output file.
 Step 1: Load Images
