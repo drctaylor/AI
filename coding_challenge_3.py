@@ -1,19 +1,4 @@
 '''
-Galvanize programming challenge #3  (take-home-style)
-
-The challenge below will test your algorithm skills, your Python skills,
-and your teaching skills. Please spent 1-2 hours on this challenge (we'll
-go on the honor system here). We suggest you spend about 30-45 minutes
-"solving" the challenge and testing your solution, then spend the remainder
-of the time documenting / explaining your solution. Pretend it will be given
-to students as an example of a high-quality solution which they should learn
-from. When you submit your solution, let us know exactly how long you spent
-preparing your solution.
-
-All the best! Let us know if you have questions about this process.
-
-______________________________________________________________________________
-
 From: https://www.codewars.com/kata/sum-of-pairs
 
 sum_pairs([11, 3, 7, 5],         10)
